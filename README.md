@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EstherLavender
 - 👀 I’m interested in WEB3 Technology,DAOs,NFT,SmartContracts
-- 🌱 I’m currently building on Algorand | learning Smart contract development;Solidity| AXELAR | Starknet
+- 🌱 I’m currently building on Silidity
 - 💞️ I’m looking to collaborate on exciting projects in WEB3
 - 📫 How to reach me @lavenderesther1(twitter) | lavenderesther202@gmail.com
 
