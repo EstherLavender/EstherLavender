@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EstherLavender
-- 👀 I’m interested in WEB3 Technology,DAOs,NFT,SmartContracts
+- 👀 I’m interested in Ecosystem Building |Defi|Fintech|Smart contracts|Art & Culture
 - 🌱 I’m currently building on Avalanche
-- 💞️ I’m looking to collaborate on exciting projects in WEB3
+- 💞️ I’m looking to collaborative
 - 📫 How to reach me @lavenderesther1(twitter) | lavenderesther202@gmail.com
 
 <!---
