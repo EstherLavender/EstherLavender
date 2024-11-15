@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EstherLavender
 - 👀 I’m interested in Ecosystem Building |Defi|Fintech|Smart contracts|Art & Culture
-- 🌱 I’m currently building on Avalanche
+- 🌱 I’m currently building on Solidity | Cairo
 - 💞 I’m a collaborative individual
 - 📫 How to reach me @lavenderesther1(twitter) | lavenderesther202@gmail.com
 
